@@ -1,5 +1,5 @@
-# com.newtonsoft.json
-Unity package manager setup for Newtonsoft's JSON library
+# com.newtonsoft.json 
+Unity package manager setup for Newtonsoft's JSON library (https://www.newtonsoft.com/json) 
 
 For more information about using Json.net in your Unity project, check this page:
 
