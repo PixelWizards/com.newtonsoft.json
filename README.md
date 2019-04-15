@@ -7,6 +7,18 @@ https://gist.github.com/gekidoslair/121237697a05d87fa40ede58030f4394
 
 # Add to your project
 
-Open the manifest.json for your project and add the following entry:
+Open the manifest.json for your project and add the following entry to your list of dependencies
 
 ```"com.newtonsoft.json": "https://github.com/PixelWizards/com.newtonsoft.json.git",```
+
+For example:
+
+```{
+  "dependencies": {
+    "com.newtonsoft.json": "https://github.com/PixelWizards/com.newtonsoft.json.git",
+    "com.unity.ads": "2.0.8",
+    "com.unity.analytics": "3.2.2",
+    "com.unity.collab-proxy": "1.2.15",
+    ...
+    }
+ }```
