@@ -3,7 +3,7 @@ Unity package manager setup for Newtonsoft's JSON library (https://www.newtonsof
 
 For more information about using Json.net in your Unity project, check this page:
 
-https://gist.github.com/onionmk2/d2e3e4cca27a37a89796e084e05de212
+https://gist.github.com/gekidoslair/121237697a05d87fa40ede58030f4394
 
 # Add to your project
 
