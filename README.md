@@ -5,6 +5,12 @@ For more information about using Json.net in your Unity project, check this page
 
 https://gist.github.com/gekidoslair/121237697a05d87fa40ede58030f4394
 
+# Version
+
+This package includes the DLL version of JSON.Net
+
+Version: 12.0.1.22727
+
 # Add to your project
 
 Open the manifest.json for your project and add the following entry to your list of dependencies
