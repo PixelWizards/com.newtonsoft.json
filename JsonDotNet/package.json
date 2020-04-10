@@ -1,0 +1,7 @@
+{
+	"name": "com.newtonsoft.json",
+	"displayName":"Json.NET",
+	"version": "1.1.0",
+	"unity": "2018.3",
+	"description": "Newtonsoft JSON parser, version 12.0.1.22727"
+}
